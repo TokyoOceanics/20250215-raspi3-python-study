@@ -1,0 +1,8 @@
+{
+	"title" : "JSONテスト用ファイル",
+	"descr" : "HTTP GET の動作確認に使用します",
+	"info"  : "お買い上げいただきありがとうございました",
+	"state" : "天気サービスの接続先を変更しました",
+	"url"   : "https://bokunimo.net/iot/cq/",
+	"date"  : "2023/01/28"
+}
