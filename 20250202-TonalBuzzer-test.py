@@ -7,8 +7,8 @@ from time import sleep
 
 low_freq=220
 high_freq=880
-freq_step=2
-duration=0.00001
+freq_step=10
+duration=0.001
 
 
 bz=TonalBuzzer(23, initial_value=1.0)
